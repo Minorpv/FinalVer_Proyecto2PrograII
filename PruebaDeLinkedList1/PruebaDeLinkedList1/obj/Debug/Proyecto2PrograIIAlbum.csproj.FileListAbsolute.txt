@@ -1,0 +1,11 @@
+C:\Users\minor\source\repos\PruebaDeLinkedList1\PruebaDeLinkedList1\bin\Debug\PruebaDeLinkedList1.exe.config
+C:\Users\minor\source\repos\PruebaDeLinkedList1\PruebaDeLinkedList1\bin\Debug\PruebaDeLinkedList1.exe
+C:\Users\minor\source\repos\PruebaDeLinkedList1\PruebaDeLinkedList1\bin\Debug\PruebaDeLinkedList1.pdb
+C:\Users\minor\source\repos\PruebaDeLinkedList1\PruebaDeLinkedList1\obj\Debug\Proyecto2PrograIIAlbum.csproj.AssemblyReference.cache
+C:\Users\minor\source\repos\PruebaDeLinkedList1\PruebaDeLinkedList1\obj\Debug\PruebaDeLinkedList1.FormGaleria.resources
+C:\Users\minor\source\repos\PruebaDeLinkedList1\PruebaDeLinkedList1\obj\Debug\PruebaDeLinkedList1.FormMenu.resources
+C:\Users\minor\source\repos\PruebaDeLinkedList1\PruebaDeLinkedList1\obj\Debug\PruebaDeLinkedList1.Properties.Resources.resources
+C:\Users\minor\source\repos\PruebaDeLinkedList1\PruebaDeLinkedList1\obj\Debug\Proyecto2PrograIIAlbum.csproj.GenerateResource.cache
+C:\Users\minor\source\repos\PruebaDeLinkedList1\PruebaDeLinkedList1\obj\Debug\Proyecto2PrograIIAlbum.csproj.CoreCompileInputs.cache
+C:\Users\minor\source\repos\PruebaDeLinkedList1\PruebaDeLinkedList1\obj\Debug\PruebaDeLinkedList1.exe
+C:\Users\minor\source\repos\PruebaDeLinkedList1\PruebaDeLinkedList1\obj\Debug\PruebaDeLinkedList1.pdb
